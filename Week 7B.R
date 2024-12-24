@@ -1,3 +1,8 @@
+# Script Name: preprocessing_filtered_data.R
+# Purpose: Preprocesses the Stroop task data for further analysis.
+# Author: Itamar Ben Arie
+# Date: 2023-12-20
+
 # R course for beginners
 # Week 7, Part B
 # assignment by Itamar Ben Arie, id 207023748

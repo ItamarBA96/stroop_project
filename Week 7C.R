@@ -1,3 +1,8 @@
+# Script Name: descriptive.R
+# Purpose: Descriptive statistics based on the filtered data.
+# Author: Itamar Ben Arie
+# Date: 2023-12-20
+
 # R course for beginners
 # Week 7, Part C
 # assignment by Itamar Ben Arie, id 207023748

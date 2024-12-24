@@ -1,3 +1,8 @@
+# Script Name: regression.R
+# Purpose: Runs regression analysis to measure Stroop effect.
+# Author: Itamar Ben Arie
+# Date: 2023-12-20
+
 # R course for beginners
 # Week 7, Part D
 # assignment by Itamar Ben Arie, id 207023748
