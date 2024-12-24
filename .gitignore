@@ -1,5 +1,4 @@
 .Rhistory  
 .RData  
 *.log  
-filtered_data.RData
-filtered_data.csv
+collected_data/
