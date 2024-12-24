@@ -6,4 +6,4 @@
 ```r
 data <- read.csv("data.csv")
 summary(data)
-![Stroop Effect](stroop.png)
+! [Stroop Effect](stroop.png)
