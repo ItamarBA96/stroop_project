@@ -1,0 +1,4 @@
+# קבצים ש-Git יתעלם מהם
+.Rhistory  
+.RData  
+*.log  
