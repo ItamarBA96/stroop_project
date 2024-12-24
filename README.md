@@ -3,7 +3,10 @@
 ### Assignment 8
 
 ### R Code
-```r
-data <- read.csv("data.csv")
-summary(data)
-! [Stroop Effect](stroop.png)
+# Stroop Project  
+
+This project analyzes Stroop task data collected during Week 7.  
+The analysis includes:  
+- Preprocessing the data  
+- Descriptive statistics  
+- Regression analysis  
