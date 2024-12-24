@@ -6,4 +6,4 @@
 ```r
 data <- read.csv("data.csv")
 summary(data)
-![Stroop Effect](0_IvzS7gjlUMzOc9Ig.png)
+![Stroop Effect](C:\Users\itama\OneDrive\מסמכים\GitHub\stroop_project\0_IvzS7gjlUMzOc9Ig.png)
