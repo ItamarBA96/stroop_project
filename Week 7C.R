@@ -3,10 +3,6 @@
 # Author: Itamar Ben Arie
 # Date: 2023-12-20
 
-# R course for beginners
-# Week 7, Part C
-# assignment by Itamar Ben Arie, id 207023748
-
 # Load the ggplot2 package
 library(ggplot2)
 

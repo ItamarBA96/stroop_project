@@ -3,10 +3,6 @@
 # Author: Itamar Ben Arie
 # Date: 2023-12-20
 
-# R course for beginners
-# Week 7, Part B
-# assignment by Itamar Ben Arie, id 207023748
-
 load("raw_data.RData")
 
 # Filter out invalid rows

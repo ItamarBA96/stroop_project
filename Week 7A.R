@@ -3,10 +3,6 @@
 # Author: Itamar Ben Arie
 # Date: 2023-12-20
 
-# R course for beginners
-# Week 7, Part A
-# assignment by Itamar Ben Arie, id 207023748
-
 # Load the dplyr package
 library(dplyr)
 
